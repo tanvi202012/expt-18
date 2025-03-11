@@ -1,0 +1,7 @@
+class hello 
+ {
+ public Stactic void main (String args[])
+  {
+    println ("hello java");
+  }
+ }
